@@ -10,10 +10,10 @@ if(isset($_POST["go"]))
 
 		function __construct($x, $a, $b, $c)
 		{
-		$this->x = $x;
-		$this->a = $a;
-		$this->b = $b;
-		$this->c = $c;
+		$this->x = x;
+		$this->a = a;
+		$this->b = b;
+		$this->c = c;
 		}
 
 		function glhf()
